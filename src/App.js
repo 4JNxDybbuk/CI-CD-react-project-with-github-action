@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DevOps <code>CI/CD pipeline</code> tutorial using GitHub Actions & Pages in {process.env.REACT_APP}.
+          DevOps <code>CI/CD pipeline</code> tutorial using GitHub actions workflow & Pages in {process.env.REACT_APP}.
         </p>
         <a
           className="App-link"
